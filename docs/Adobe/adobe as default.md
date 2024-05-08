@@ -1,4 +1,4 @@
-# Make Adobe Acrobat the default application for PDF files
+# Setting Adobe Acrobat as the default application for PDF files
 
 See the steps below to change your default PDF application to Adobe Acrobat.
 
@@ -8,20 +8,20 @@ Steps:
 
 1. Right-click on the pdf file you want to open.
 
-    ![properties](<img/image.png>)
+    ![properties](<img_adobe_as_default/image.png>)
 
 2. Click on **Properties**.
 
-    ![properties hover](<img/image-4.png>)
+    ![properties hover](<img_adobe_as_default/image-4.png>)
 
 3. In the file's Properties dialog box, click **Change...**.
 
-    ![change](<img/image-1.png>)
+    ![change](<img_adobe_as_default/image-1.png>)
 
 4. Choose Adobe Acrobat, and then click **Set default**.
 
-    ![default](<img/image-2.png>)
+    ![default](<img_adobe_as_default/image-2.png>)
 
 5. In the Properties dialog box, click **Apply**.
 
-    ![apply](<img/image-3.png>)
+    ![apply](<img_adobe_as_default/image-3.png>)
