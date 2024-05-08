@@ -1,16 +1,6 @@
-site_name: Basic MkDocs Example Project
-theme:
-  name: readthedocs
-  highlightjs: true
-plugins:
-  - search
-  - mkdocstrings:
-      handlers:
-        # See: https://mkdocstrings.github.io/python/usage/
-        python:
-          options:
-            docstring_style: sphinx
-markdown_extensions:
-  - markdown_include.include:
-      base_path: .
-  - admonition
+site_name: MkLorum
+nav:
+  - Home: index.md
+  - About: about.md
+  - Adobe: adobe as default.md
+theme: readthedocs
